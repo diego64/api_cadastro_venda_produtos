@@ -25,7 +25,7 @@ Esta API tem como objetivo cadastrar produtos e pedidos para posterior venda dos
 
 ## 📚 Desenvolvimento
 
-O projeto foi divido em 9 partes: 
+O projeto foi divido em 10 partes: 
 
 - Criação da base da API 
 - Configuração das rotas de produtos e pedidos
@@ -36,3 +36,4 @@ O projeto foi divido em 9 partes:
 - Login e autenticação do usuário através do JWT 
 - Protejendo as rotas com JWT
 - Separando as rotas e controllers
+- Refatoração do código
